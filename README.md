@@ -1,0 +1,1 @@
+This is my project for the finishing the Flexbox lesson in The Odin Project. 
